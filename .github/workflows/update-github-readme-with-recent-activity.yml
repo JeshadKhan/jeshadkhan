@@ -1,4 +1,4 @@
-name: GitHub Activity Summary
+name: Update README
 
 on:
   schedule:
@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-activity-summary
+    name: Update this repo's README with recent activity
 
     steps:
       - uses: actions/checkout@v2
@@ -18,4 +18,4 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           COMMIT_MSG: 'Update GitHub Activity Summary'
-          MAX_LINES: 5
+          MAX_LINES: 10
