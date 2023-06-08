@@ -23,7 +23,7 @@
 ---
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeshadkhan&bg_color=22272e&color=ffffff&line=48dbfb&point=0abde3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeshadkhan&theme=react&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeshadKhan&bg_color=20232a&color=ffffff&line=57bcda&point=109be0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
