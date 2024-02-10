@@ -3,7 +3,7 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Full+Stack+Developer;Odoo+Developer;Python+Developer;Dot.NET+Developer;Tech+Enthusiast;Entrepreneur;Technopreneur"></img>
 </h1>
 
-<h3 align="center">Sr. Solution Architect & Team Lead @ DCL | Odoo ERP Expert | Python | Dot.NET | EdTech | BizTech | HealthTech | Tech Enthusiast <br/>From Bangladesh 🇧🇩</h3>
+<h3 align="center">Sr. Solution Architect & Team Lead @ DCL | Odoo ERP Expert | EdTech | BizTech | HealthTech | Technopreneur | Tech Enthusiast <br/>From Bangladesh 🇧🇩</h3>
 
 [![website](https://img.shields.io/website?label=JeshadKhan.com&style=for-the-badge&url=https%3A%2F%2Fjeshadkhan.com)](https://jeshadkhan.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jeshadkhan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJeshadKhan&screen_name=JeshadKhan)
