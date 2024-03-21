@@ -1,9 +1,9 @@
 <h1 align="center">
   Hi there <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/hand_wave.gif" width="45px" height="45px"/></a>, I'm Jeshad Khan
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Full+Stack+Developer;Odoo+Developer;Python+Developer;Dot.NET+Developer;Tech+Enthusiast;Entrepreneur;Technopreneur"></img>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Full+Stack+Developer;Odoo+ERP+Expert;EdTech;BizTech;HealthTech;Entrepreneur;Technopreneur;Tech Enthusiast"></img>
 </h1>
 
-<h3 align="center">Sr. Solution Architect & Team Lead @ DCL | Odoo ERP Expert | EdTech | BizTech | HealthTech | Technopreneur | Tech Enthusiast <br/>From Bangladesh 🇧🇩</h3>
+<h3 align="center">Sr. Solution Architect & Team Lead @ DCL | Odoo ERP Expert | EdTech | BizTech | HealthTech | Entrepreneur | Technopreneur | Tech Enthusiast<br/>From Bangladesh 🇧🇩</h3>
 
 [![website](https://img.shields.io/website?label=JeshadKhan.com&style=for-the-badge&url=https%3A%2F%2Fjeshadkhan.com)](https://jeshadkhan.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jeshadkhan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJeshadKhan&screen_name=JeshadKhan)
@@ -14,7 +14,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" height="125" align="right"/></a>
 -->
 
-- 🔭 I’m currently working at Daffodil Computers Ltd. as TL & Sr. Software Engr. 💻
+- 🔭 I’m currently working at Daffodil Computers Ltd. as Sr. Solution Architect & Team Lead 💻
 - 🌱 I’m currently learning about everything 💫
 - 👯 I’m looking to collaborate with other developers for the invention 💡
 - ✨ Goals: Contribute more to Open Source 🎯 projects
