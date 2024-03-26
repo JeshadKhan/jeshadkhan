@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/hand_wave.gif" width="45px" height="45px"/></a>, I'm Jeshad Khan
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Full+Stack+Developer;Odoo+ERP+Expert;EdTech;BizTech;HealthTech;Entrepreneur;Technopreneur;Tech+Enthusiast"></img>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Full+Stack+Developer;Odoo+ERP+Expert;BizTech;EdTech;HealthTech;Entrepreneur;Technopreneur;Tech+Enthusiast"></img>
 </h1>
 
 <h3 align="center">Sr. Solution Architect & Team Lead @ DCL | Odoo ERP Expert | BizTech | EdTech | HealthTech | Entrepreneur | Technopreneur | Tech Enthusiast<br/>From Bangladesh 🇧🇩</h3>
