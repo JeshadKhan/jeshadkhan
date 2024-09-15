@@ -30,7 +30,7 @@
 ### 🔌 Connect with me: <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handshake.gif" height="30px"></a>
 <p>
   <a style="text-decoration: none;" href="https://jeshadkhan.github.io" target="blank" title="Personal Portfolio">
-    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/googleearth?viewbox=auto"/>
+    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/googleearth/lightseagreen?viewbox=auto"/>
   </a>
   <a style="text-decoration: none;" href="https://github.com/jeshadkhan" target="blank" title="GitHub">
     <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/github/_/white?viewbox=auto"/>
