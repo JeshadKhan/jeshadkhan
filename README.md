@@ -30,22 +30,22 @@
 ### 🔌 Connect with me: <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handshake.gif" height="30px"></a>
 <p>
   <a style="text-decoration: none;" href="https://jeshadkhan.github.io" target="blank" title="Personal Portfolio">
-    <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" height="20" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/googleearth.svg" height="20" width="30" />
   </a>
   <a style="text-decoration: none;" href="https://linkedin.com/in/jeshadkhan" target="blank" title="LinkedIn">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" height="20" width="30" />
   </a>
   <a style="text-decoration: none;" href="https://github.com/jeshadkhan" target="blank" title="GutHub">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" height="20" width="30" />
   </a>
-  <a style="text-decoration: none;" href="https://twitter.com/jeshadkhan" target="blank" title="Twitter">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="30" />
+  <a style="text-decoration: none;" href="https://x.com/jeshadkhan" target="blank" title="X">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/x.svg" height="20" width="30" />
   </a>
   <a style="text-decoration: none;" href="https://facebook.com/jeshadkhan" target="blank" title="Facebook">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="20" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg" height="20" width="30" />
   </a>
   <a style="text-decoration: none;" href="https://youtube.com/jeshadkhan" target="blank" title="YouTube">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="25" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/youtube.svg" height="25" width="30" />
   </a>
 </p>
 
