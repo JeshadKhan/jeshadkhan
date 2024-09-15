@@ -33,13 +33,13 @@
     <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/googleearth?viewbox=auto"/>
   </a>
   <a style="text-decoration: none;" href="https://github.com/jeshadkhan" target="blank" title="GitHub">
-    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/github?viewbox=auto/_/#ffffff"/>
+    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/github/_/white?viewbox=auto"/>
   </a>
   <a style="text-decoration: none;" href="https://linkedin.com/in/jeshadkhan" target="blank" title="LinkedIn">
     <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/linkedin?viewbox=auto"/>
   </a>
   <a style="text-decoration: none;" href="https://x.com/jeshadkhan" target="blank" title="X">
-    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/x?viewbox=auto/_/#ffffff"/>
+    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/x/_/white?viewbox=auto"/>
   </a>
   <a style="text-decoration: none;" href="https://facebook.com/jeshadkhan" target="blank" title="Facebook">
     <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/facebook?viewbox=auto"/>
@@ -87,7 +87,7 @@
   <img height="30" src="https://cdn.simpleicons.org/github?viewbox=auto"/>
   <img height="30" src="https://cdn.simpleicons.org/gitlab?viewbox=auto"/>
   <img height="30" src="https://cdn.simpleicons.org/docker?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/gnometerminal?viewbox=auto/_/#ffffff"/>
+  <img height="30" src="https://cdn.simpleicons.org/gnometerminal/_/white"/>
 </p>
 
 ---
