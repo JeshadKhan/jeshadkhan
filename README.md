@@ -30,22 +30,22 @@
 ### 🔌 Connect with me: <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handshake.gif" height="30px"></a>
 <p>
   <a style="text-decoration: none;" href="https://jeshadkhan.github.io" target="blank" title="Personal Portfolio">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/googleearth.svg" height="20" width="30" />
+    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/googleearth?viewbox=auto"/>
+  </a>
+  <a style="text-decoration: none;" href="https://github.com/jeshadkhan" target="blank" title="GitHub">
+    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/github?viewbox=auto/_/#ffffff"/>
   </a>
   <a style="text-decoration: none;" href="https://linkedin.com/in/jeshadkhan" target="blank" title="LinkedIn">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" height="20" width="30" />
-  </a>
-  <a style="text-decoration: none;" href="https://github.com/jeshadkhan" target="blank" title="GutHub">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" height="20" width="30" />
+    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/linkedin?viewbox=auto"/>
   </a>
   <a style="text-decoration: none;" href="https://x.com/jeshadkhan" target="blank" title="X">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/x.svg" height="20" width="30" />
+    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/x?viewbox=auto/_/#ffffff"/>
   </a>
   <a style="text-decoration: none;" href="https://facebook.com/jeshadkhan" target="blank" title="Facebook">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg" height="20" width="30" />
+    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/facebook?viewbox=auto"/>
   </a>
   <a style="text-decoration: none;" href="https://youtube.com/jeshadkhan" target="blank" title="YouTube">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/youtube.svg" height="25" width="30" />
+    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/youtube?viewbox=auto"/>
   </a>
 </p>
 
@@ -53,26 +53,41 @@
 
 ### 🛠️ Tech Stack: <a href="#"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="30px"></a>
 <p>
-  <img width="30" height="30" src="https://code.visualstudio.com/favicon.ico"/>
+  <img height="30" src="https://cdn.simpleicons.org/odoo?viewbox=auto"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
+  <img height="30" src="https://cdn.simpleicons.org/dotnet?viewbox=auto"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <img height="30" src="https://cdn.simpleicons.org/dotnet?viewbox=auto"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+  <img height="30" src="https://cdn.simpleicons.org/html5?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/css3?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/javascript?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/bootstrap?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/postgresql?viewbox=auto"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-  <img width="30" height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
+  <img height="30" src="https://cdn.simpleicons.org/mysql?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/adobephotoshop?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/postman?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/nginx?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/akamai?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/digitalocean?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/amazonwebservices?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/amazonec2?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/googlecloud?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/linux?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/ubuntu?viewbox=auto"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg"/>
+  <img width="30" height="30" src="https://code.visualstudio.com/favicon.ico"/>
+  <img height="30" src="https://cdn.simpleicons.org/diagramsdotnet?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/jirasoftware?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/asana?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/trello?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/notion?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/git?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/github?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/gitlab?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/docker?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/gnometerminal?viewbox=auto/_/#ffffff"/>
 </p>
 
 ---
