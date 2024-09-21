@@ -57,7 +57,6 @@
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img height="30" src="https://cdn.simpleicons.org/dotnet?viewbox=auto"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img height="30" src="https://cdn.simpleicons.org/dotnet?viewbox=auto"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"/>
   <img height="30" src="https://cdn.simpleicons.org/html5?viewbox=auto"/>
   <img height="30" src="https://cdn.simpleicons.org/css3?viewbox=auto"/>
@@ -71,7 +70,7 @@
   <img height="30" src="https://cdn.simpleicons.org/nginx?viewbox=auto"/>
   <img height="30" src="https://cdn.simpleicons.org/akamai?viewbox=auto"/>
   <img height="30" src="https://cdn.simpleicons.org/digitalocean?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/amazonwebservices?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/amazonwebservices/_/white?viewbox=auto"/>
   <img height="30" src="https://cdn.simpleicons.org/amazonec2?viewbox=auto"/>
   <img height="30" src="https://cdn.simpleicons.org/googlecloud?viewbox=auto"/>
   <img height="30" src="https://cdn.simpleicons.org/linux?viewbox=auto"/>
@@ -82,9 +81,9 @@
   <img height="30" src="https://cdn.simpleicons.org/jirasoftware?viewbox=auto"/>
   <img height="30" src="https://cdn.simpleicons.org/asana?viewbox=auto"/>
   <img height="30" src="https://cdn.simpleicons.org/trello?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/notion?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/notion/_/white?viewbox=auto"/>
   <img height="30" src="https://cdn.simpleicons.org/git?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/github?viewbox=auto"/>
+  <img height="30" src="https://cdn.simpleicons.org/github/_/white?viewbox=auto"/>
   <img height="30" src="https://cdn.simpleicons.org/gitlab?viewbox=auto"/>
   <img height="30" src="https://cdn.simpleicons.org/docker?viewbox=auto"/>
   <img height="30" src="https://cdn.simpleicons.org/gnometerminal/_/white"/>
