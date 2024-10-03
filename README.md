@@ -10,9 +10,8 @@
 
 ---
 
-<!--
-<a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" height="125" align="right"/></a>
--->
+<!-- <img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" alt="" align="right" height="140"/> -->
+<img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=bIwoEoiJh1I1hQ&pid=ImgRaw" alt="" align="right" height="140"/>
 
 - 🔭 I’m currently working at Daffodil Computers Ltd. as Sr. Solution Architect & Team Lead 💻
 - 🌱 I’m currently learning about tech-related staff 💫
