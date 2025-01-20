@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/hand_wave.gif" width="45px" height="45px"/></a>, I'm Jeshad Khan
+  Hi there <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handwave.gif" width="45px" height="45px"/></a>, I'm Jeshad Khan
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Technical+Lead;Senior+Solution+Architect;Full+Stack+Developer;Odoo+ERP+Expert;BizTech;EdTech;HealthTech;Entrepreneur;Technopreneur;Tech+Enthusiast"></img>
 </h1>
 
@@ -10,8 +10,7 @@
 
 ---
 
-<!-- <img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/dev_working.gif" alt="" align="right" height="125"/> -->
-<img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=bIwoEoiJh1I1hQ&pid=ImgRaw" alt="" align="right" height="125"/>
+<img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/working.gif" alt="" align="right" height="125"/>
 
 - 🔭 I’m currently working at Daffodil Software Ltd. as Sr. Solution Architect & Team Lead 💻
 - 🌱 I’m currently learning about tech-related staff 💫
@@ -35,7 +34,7 @@
     <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/github/_/white?viewbox=auto"/>
   </a>
   <a style="text-decoration: none;" href="https://linkedin.com/in/jeshadkhan" target="blank" title="LinkedIn">
-    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/linkedin?viewbox=auto"/>
+    <img align="center" height="32" width="32" src="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca"/>
   </a>
   <a style="text-decoration: none;" href="https://x.com/jeshadkhan" target="blank" title="X">
     <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/x/_/white?viewbox=auto"/>
@@ -50,7 +49,7 @@
 
 ---
 
-### 🛠️ Tech Stack: <a href="#"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="30px"></a>
+### 🛠️ Tech Stack: <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/coding.gif" height="30px"></a>
 <p>
   <img height="30" src="https://cdn.simpleicons.org/odoo?viewbox=auto"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
@@ -64,7 +63,8 @@
   <img height="30" src="https://cdn.simpleicons.org/postgresql?viewbox=auto"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
   <img height="30" src="https://cdn.simpleicons.org/mysql?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/adobephotoshop?viewbox=auto"/>
+  <img height="30" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.13.0/files/dark/adobe-color.png"/>
+  <img height="30" src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg"/>
   <img height="30" src="https://cdn.simpleicons.org/postman?viewbox=auto"/>
   <img height="30" src="https://cdn.simpleicons.org/nginx?viewbox=auto"/>
   <img height="30" src="https://cdn.simpleicons.org/akamai?viewbox=auto"/>
@@ -102,6 +102,7 @@
 --- 
 -->
 
+### 📋 GitHub Activity: <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/activity.gif" height="30px"></a>
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
