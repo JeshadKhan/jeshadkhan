@@ -6,7 +6,7 @@
 <h3 align="center">Sr. Solution Architect & Team Lead @ DSL 🏢 | Odoo ERP Expert 🟣 🦄 | BizTech 💼 | EdTech 🎓 | HealthTech ⚕️ | Technopreneur 🌱 | Tech Enthusiast 💻<br/>From Bangladesh 🇧🇩</h3>
 
 [![website](https://img.shields.io/website?label=JeshadKhan.com&style=for-the-badge&url=https%3A%2F%2Fjeshadkhan.com)](https://jeshadkhan.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jeshadkhan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJeshadKhan&screen_name=JeshadKhan)
+[![X Follow](https://img.shields.io/twitter/follow/jeshadkhan?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJeshadKhan&screen_name=JeshadKhan)
 
 ---
 
