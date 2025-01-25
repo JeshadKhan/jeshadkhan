@@ -27,26 +27,13 @@
 ---
 
 ### 🔌 Connect with me: <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handshake.gif" height="30px"></a>
-<p>
-  <a style="text-decoration: none;" href="https://jeshadkhan.com" target="blank" title="Personal Portfolio">
-    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/googleearth/lightseagreen?viewbox=auto"/>
-  </a>
-  <a style="text-decoration: none;" href="https://github.com/jeshadkhan" target="blank" title="GitHub">
-    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/github/_/white?viewbox=auto"/>
-  </a>
-  <a style="text-decoration: none;" href="https://linkedin.com/in/jeshadkhan" target="blank" title="LinkedIn">
-    <img align="center" height="32" width="32" src="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca"/>
-  </a>
-  <a style="text-decoration: none;" href="https://x.com/jeshadkhan" target="blank" title="X">
-    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/x/_/white?viewbox=auto"/>
-  </a>
-  <a style="text-decoration: none;" href="https://facebook.com/jeshadkhan" target="blank" title="Facebook">
-    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/facebook?viewbox=auto"/>
-  </a>
-  <a style="text-decoration: none;" href="https://youtube.com/jeshadkhan" target="blank" title="YouTube">
-    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/youtube?viewbox=auto"/>
-  </a>
-</p>
+
+[![Website](https://cdn.simpleicons.org/googleearth/lightseagreen?viewbox=auto&size=32 "Personal Portfolio")](https://jeshadkhan.com)
+[![GitHub](https://cdn.simpleicons.org/github/_/white?viewbox=auto&size=32 "GitHub")](https://github.com/jeshadkhan)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/32px-LinkedIn_icon.svg.png "LinkedIn")](https://linkedin.com/in/jeshadkhan)
+[![X](https://cdn.simpleicons.org/x/_/white?viewbox=auto&size=32 "X")](https://x.com/jeshadkhan)
+[![Facebook](https://cdn.simpleicons.org/facebook?viewbox=auto&size=32 "Facebook")](https://facebook.com/jeshadkhan)
+[![YouTube](https://cdn.simpleicons.org/youtube?viewbox=auto&size=32 "YouTube")](https://youtube.com/jeshadkhan)
 
 ---
 
