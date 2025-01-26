@@ -3,7 +3,7 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Technical+Lead;Senior+Solution+Architect;Full+Stack+Developer;Odoo+ERP+Expert;BizTech;EdTech;HealthTech;Entrepreneur;Technopreneur;Tech+Enthusiast"></img>
 </h1>
 
-<h3 align="center">Sr. Solution Architect & Team Lead @ DSL 🏢 | Odoo ERP Expert 🟣 🦄 | BizTech 💼 | EdTech 🎓 | HealthTech ⚕️ | Technopreneur 🌱 | Tech Enthusiast 💻<br/><br/>10+ Year(s) Working Experience 🏆 | Bangladesh 🇧🇩</h3>
+<h3 align="center">🏢 Sr. Solution Architect & Team Lead @ DSL | 🟣 Odoo ERP Expert 🦄<br/>💼 BizTech | 👥 HRM | 🎓 EdTech | ⚕️ HealthTech | 🏭 Manufacturing | ☁️⚙ SaaS<br/> 🌱 Technopreneur | 💻 Tech Enthusiast<br/><br/>🏆 10+ Year(s) Working Experience | 🇧🇩 Bangladesh</h3>
 
 <br/>
 
