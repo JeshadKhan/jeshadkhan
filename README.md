@@ -37,7 +37,7 @@
 [![Website](https://cdn.simpleicons.org/googleearth/lightseagreen?viewbox=auto&size=32 "Personal Portfolio")](https://jeshadkhan.com)
 [![GitHub](https://cdn.simpleicons.org/github/_/white?viewbox=auto&size=32 "GitHub")](https://github.com/jeshadkhan)
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/32px-LinkedIn_icon.svg.png "LinkedIn")](https://linkedin.com/in/jeshadkhan)
-[![X](https://cdn.simpleicons.org/x/_/white?viewbox=auto&size=32 "X")](https://x.com/jeshadkhan)
+[![X](https://cdn.simpleicons.org/x/_/white?viewbox=auto&size=32 "X (formally Twitter)")](https://x.com/jeshadkhan)
 [![Facebook](https://cdn.simpleicons.org/facebook?viewbox=auto&size=32 "Facebook")](https://facebook.com/jeshadkhan)
 [![YouTube](https://cdn.simpleicons.org/youtube?viewbox=auto&size=32 "YouTube")](https://youtube.com/jeshadkhan)
 
