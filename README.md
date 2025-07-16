@@ -19,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/working.gif" alt="" align="right" height="125"/>
 
-- 🔭 I’m currently working at Daffodil Software Ltd. as Sr. Solution Architect & Team Lead 💻
+- 🔭 I’m currently working at Sysnova Information Systems Limited as Principal Lead 💻
 - 🌱 I’m currently learning about tech-related staff 💫
 - 👯 I’m looking to collaborate with other developers for the invention 💡
 - ✨ Goals: Contribute more to Open Source 🎯 projects
