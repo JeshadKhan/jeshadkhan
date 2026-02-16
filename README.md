@@ -36,7 +36,7 @@
 
 [![Website](https://cdn.simpleicons.org/googleearth/lightseagreen?viewbox=auto&size=32 "Personal Portfolio")](https://jeshadkhan.com)
 [![GitHub](https://cdn.simpleicons.org/github/_/white?viewbox=auto&size=32 "GitHub")](https://github.com/jeshadkhan)
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/32px-LinkedIn_icon.svg.png "LinkedIn")](https://linkedin.com/in/jeshadkhan)
+[![LinkedIn](https://cdn.simpleicons.org/inspire/007FBC?viewbox=auto&size=32 "LinkedIn")](https://linkedin.com/in/jeshadkhan)
 [![X](https://cdn.simpleicons.org/x/_/white?viewbox=auto&size=32 "X (formally Twitter)")](https://x.com/jeshadkhan)
 [![Facebook](https://cdn.simpleicons.org/facebook?viewbox=auto&size=32 "Facebook")](https://facebook.com/jeshadkhan)
 [![YouTube](https://cdn.simpleicons.org/youtube?viewbox=auto&size=32 "YouTube")](https://youtube.com/jeshadkhan)
@@ -112,8 +112,11 @@
 ---
 
 <div align="center">
-  <a href="#"><img alt="Jeshad Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeshadkhan&show_icons=true&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true" height="170"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadkhan&theme=react&langs_count=10&layout=compact&hide_border=true" height="170"/></a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeshadkhan&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeshadkhan&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeshadkhan&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeshadkhan&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeshadkhan&theme=transparent&utcOffset=8" />
   
   <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </div>
