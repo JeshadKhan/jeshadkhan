@@ -137,10 +137,10 @@
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/JeshadKhan?style=social"/>
   <img alt="GitHub User's Stars" src="https://img.shields.io/github/stars/JeshadKhan?style=social"/>
 </p>
-<p align="center"> 
-  Visitor count<br>
-  <a href="#"><img src="https://profile-counter.glitch.me/JeshadKhan/count.svg"/></a>
-</p>
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%233A62B1&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
+</div>
 <div align="center">
   <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/footer.svg"/></a>
 </div>
