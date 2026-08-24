@@ -1,9 +1,13 @@
 <h1 align="center">
   Hi there <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handwave.gif" width="45px" height="45px"/></a>, I'm Jeshad Khan
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Technical+Lead;Senior+Solution+Architect;Full+Stack+Developer;Odoo+ERP+Expert;BizTech;EdTech;HealthTech;Entrepreneur;Technopreneur;Tech+Enthusiast"></img>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Principal+Lead;AI-Forward+Technology+Leader;Solution+Architect;Project+Manager;Full+Stack+Engineer;Certified+Odoo+ERP+Expert;BizTech;Human+Resource+Managemen+(HRM);FinTech;EdTech;HealthTech;Manufacturing;SaaS;Entrepreneur;Technopreneur;Tech+Enthusiast"></img>
 </h1>
 
-<h3 align="center">Principal Lead @ Sysnova 🏢 | Sr. Solution Architect 📐 | 🟣 Odoo ERP Expert 🦄<br/>💼 BizTech | 👥 HRM | 🎓 EdTech | ⚕️ HealthTech | 🏭 Manufacturing | ☁️⚙ SaaS<br/> 🌱 Technopreneur | 💻 Tech Enthusiast<br/><br/>🏆 12+ Year(s) Working Experience | 🇧🇩 Bangladesh</h3>
+<h3 align="center">
+	Principal Lead @ Sysnova 🏢 | AI-Forward Technology Leader ✨ | Solution Architect 📐 | Project Manager 🎯 | Certified Odoo ERP Expert 🟣 | Technopreneur 🌱
+	<br/><br/>BizTech 💼 | HRM 👥 | FinTech 💵 | EdTech 🎓 | HealthTech ⚕️ | Manufacturing 🏭 | SaaS ☁️
+	<br/><br/>🏆 12+ Year(s) Working Experience | 🇧🇩 Bangladesh
+</h3>
 
 <br/>
 
