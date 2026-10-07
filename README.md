@@ -17,7 +17,7 @@
 
 <div align="center">
 	<a href="https://jeshadkhan.com"><img alt="Portfolio" src="https://img.shields.io/website?label=JeshadKhan.com&style=for-the-badge&url=https%3A%2F%2Fjeshadkhan.com"/></a>
-	<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jeshadkhan"><img alt="LinkedIn Follow" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+	<a href="https://www.linkedin.com/in/jeshadkhan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 	<a href="https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJeshadKhan&screen_name=JeshadKhan"><img alt="X Follow" src="https://img.shields.io/twitter/follow/jeshadkhan?color=1DA1F2&logo=x&style=for-the-badge"/></a>
 	<a href="https://www.youtube.com/jeshadkhan"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </div>
