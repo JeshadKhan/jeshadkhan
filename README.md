@@ -26,11 +26,11 @@
 
 <img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/working.gif" alt="" align="right" height="125"/>
 
-- 🔭 I’m currently working at Sysnova Information Systems Limited (Part of Kazi Farms) as Principal Lead 💻
-- 🌱 I’m currently learning about tech-related staff 💫
-- 👯 I’m looking to collaborate with other developers for the invention 💡
-- ✨ Goals: Contribute more to Open Source 🎯 projects
-- ⚡ Fun fact: I love to reading book 📚, enjoying music 🎧 and traveling ✈️
+### 🔭 What I'm Up To
+- **Current Role:** Principal Lead at Sysnova Information Systems Limited (Kazi Farms Group) 💻
+- **Currently Exploring:** Emerging software technologies & architecture practices 💫
+- **Collaboration:** Open to collaborating on innovative software projects 💡
+- **Goals:** Active contribution to open-source software 🎯
 
 ---
 
