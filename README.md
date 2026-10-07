@@ -32,7 +32,7 @@
 ---
 
 <!--[![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=JeshadKhan&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/JeshadKhan/readme-components-github)-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeshadKhan&bg_color=20232a&color=ffffff&line=57bcda&point=109be0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=jeshadkhan&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area_color=61778f&area=true&hide_border=true)
 
 ---
 
@@ -55,21 +55,18 @@
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" title="ASP.NET"/>
   <img height="30" src="https://cdn.simpleicons.org/html5?viewbox=auto" title="HTML5"/>
-  <img height="30" src="https://cdn.simpleicons.org/css3?viewbox=auto" title="CSS3"/>
+  <img height="30" src="https://cdn.simpleicons.org/css?viewbox=auto" title="CSS3"/>
   <img height="30" src="https://cdn.simpleicons.org/javascript?viewbox=auto" title="JavaScript"/>
   <img height="30" src="https://cdn.simpleicons.org/bootstrap?viewbox=auto" title="Bootstrap"/>
   <img height="30" src="https://cdn.simpleicons.org/postgresql?viewbox=auto" title="PostgreSQL"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server"/>
   <img height="30" src="https://cdn.simpleicons.org/mysql?viewbox=auto" title="MySQL"/>
-  <img height="30" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.13.0/files/dark/adobe-color.png" title="Adobe Color"/>
-  <img height="30" src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" title="Adobe Photoshop"/>
   <img height="30" src="https://cdn.simpleicons.org/postman?viewbox=auto" title="Postman"/>
   <img height="30" src="https://cdn.simpleicons.org/nginx?viewbox=auto" title="NGINX"/>
-  <img height="30" src="https://cdn.simpleicons.org/akamai?viewbox=auto" title="Akamai"/>
-  <img height="30" src="https://cdn.simpleicons.org/digitalocean?viewbox=auto" title="DigitalOcean"/>
-  <img height="30" src="https://cdn.simpleicons.org/amazonwebservices/_/white?viewbox=auto" title="Amazon Web Services"/>
-  <img height="30" src="https://cdn.simpleicons.org/amazonec2?viewbox=auto" title="Amazon EC2"/>
-  <img height="30" src="https://cdn.simpleicons.org/googlecloud?viewbox=auto" title="Google Cloud"/>
+  <img height="30" src="https://cdn.simpleicons.org/icloud?viewbox=auto" title="Cloud"/>
+  <img height="30" src="https://cdn.simpleicons.org/claude?viewbox=auto" title="Claude AI"/>
+  <img height="30" src="https://cdn.simpleicons.org/googlegemini?viewbox=auto" title="Google Gemini"/>
+  <img height="30" src="https://cdn.simpleicons.org/githubcopilot?viewbox=auto" title="Github Copilot"/>
   <img height="30" src="https://cdn.simpleicons.org/linux?viewbox=auto" title="Linux"/>
   <img height="30" src="https://cdn.simpleicons.org/ubuntu?viewbox=auto" title="Ubuntu"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows"/>
