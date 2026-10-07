@@ -49,41 +49,41 @@
 
 ### 🛠️ Tech Stack: <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/coding.gif" height="30px"></a>
 <p>
-  <img height="30" src="https://cdn.simpleicons.org/odoo?viewbox=auto"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img height="30" src="https://cdn.simpleicons.org/dotnet?viewbox=auto"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"/>
-  <img height="30" src="https://cdn.simpleicons.org/html5?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/css3?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/javascript?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/bootstrap?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/postgresql?viewbox=auto"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
-  <img height="30" src="https://cdn.simpleicons.org/mysql?viewbox=auto"/>
-  <img height="30" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.13.0/files/dark/adobe-color.png"/>
-  <img height="30" src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg"/>
-  <img height="30" src="https://cdn.simpleicons.org/postman?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/nginx?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/akamai?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/digitalocean?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/amazonwebservices/_/white?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/amazonec2?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/googlecloud?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/linux?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/ubuntu?viewbox=auto"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>
-  <img width="30" height="30" src="https://code.visualstudio.com/favicon.ico"/>
-  <img height="30" src="https://cdn.simpleicons.org/diagramsdotnet?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/jirasoftware?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/asana?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/trello?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/notion/_/white?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/git?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/github/_/white?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/gitlab?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/docker?viewbox=auto"/>
-  <img height="30" src="https://cdn.simpleicons.org/gnometerminal/_/white"/>
+  <img height="30" src="https://cdn.simpleicons.org/odoo?viewbox=auto" title="Odoo"/>
+  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"/>
+  <img height="30" src="https://cdn.simpleicons.org/dotnet?viewbox=auto" title="Microsoft .NET"/>
+  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#"/>
+  <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" title="ASP.NET"/>
+  <img height="30" src="https://cdn.simpleicons.org/html5?viewbox=auto" title="HTML5"/>
+  <img height="30" src="https://cdn.simpleicons.org/css3?viewbox=auto" title="CSS3"/>
+  <img height="30" src="https://cdn.simpleicons.org/javascript?viewbox=auto" title="JavaScript"/>
+  <img height="30" src="https://cdn.simpleicons.org/bootstrap?viewbox=auto" title="Bootstrap"/>
+  <img height="30" src="https://cdn.simpleicons.org/postgresql?viewbox=auto" title="PostgreSQL"/>
+  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server"/>
+  <img height="30" src="https://cdn.simpleicons.org/mysql?viewbox=auto" title="MySQL"/>
+  <img height="30" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.13.0/files/dark/adobe-color.png" title="Adobe Color"/>
+  <img height="30" src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" title="Adobe Photoshop"/>
+  <img height="30" src="https://cdn.simpleicons.org/postman?viewbox=auto" title="Postman"/>
+  <img height="30" src="https://cdn.simpleicons.org/nginx?viewbox=auto" title="NGINX"/>
+  <img height="30" src="https://cdn.simpleicons.org/akamai?viewbox=auto" title="Akamai"/>
+  <img height="30" src="https://cdn.simpleicons.org/digitalocean?viewbox=auto" title="DigitalOcean"/>
+  <img height="30" src="https://cdn.simpleicons.org/amazonwebservices/_/white?viewbox=auto" title="Amazon Web Services"/>
+  <img height="30" src="https://cdn.simpleicons.org/amazonec2?viewbox=auto" title="Amazon EC2"/>
+  <img height="30" src="https://cdn.simpleicons.org/googlecloud?viewbox=auto" title="Google Cloud"/>
+  <img height="30" src="https://cdn.simpleicons.org/linux?viewbox=auto" title="Linux"/>
+  <img height="30" src="https://cdn.simpleicons.org/ubuntu?viewbox=auto" title="Ubuntu"/>
+  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows"/>
+  <img width="30" height="30" src="https://code.visualstudio.com/favicon.ico" title="Visual Studio Code"/>
+  <img height="30" src="https://cdn.simpleicons.org/diagramsdotnet?viewbox=auto" title="Diagrams.net"/>
+  <img height="30" src="https://cdn.simpleicons.org/jirasoftware?viewbox=auto" title="Jira"/>
+  <img height="30" src="https://cdn.simpleicons.org/asana?viewbox=auto" title="Asana"/>
+  <img height="30" src="https://cdn.simpleicons.org/trello?viewbox=auto" title="Trello"/>
+  <img height="30" src="https://cdn.simpleicons.org/notion/_/white?viewbox=auto" title="Notion"/>
+  <img height="30" src="https://cdn.simpleicons.org/git?viewbox=auto" title="Git"/>
+  <img height="30" src="https://cdn.simpleicons.org/github/_/white?viewbox=auto" title="GitHub"/>
+  <img height="30" src="https://cdn.simpleicons.org/gitlab?viewbox=auto" title="GitLab"/>
+  <img height="30" src="https://cdn.simpleicons.org/docker?viewbox=auto" title="Docker"/>
+  <img height="30" src="https://cdn.simpleicons.org/gnometerminal/_/white" title="Terminal"/>
 </p>
 
 ---
