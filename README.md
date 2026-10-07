@@ -1,11 +1,11 @@
 <h1 align="center">
   Hi there <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handwave.gif" width="45px" height="45px"/></a>, I'm Jeshad Khan
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Principal+Lead;AI-Forward+Technology+Leader;Solution+Architect;Project+Manager;Full+Stack+Engineer;Certified+Odoo+ERP+Expert;BizTech;Human+Resource+Managemen+(HRM);FinTech;EdTech;HealthTech;Manufacturing;SaaS;Entrepreneur;Technopreneur;Tech+Enthusiast"></img>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Principal+Lead;AI-Forward+Technology+Leader;Solution+Architect;Project+Manager;Certified+Odoo+ERP+Expert;Full+Stack+Engineer;Technopreneur"></img>
 </h1>
 
 <h3 align="center">
 	Principal Lead @ Sysnova 🏢 | AI-Forward Technology Leader ✨ | Solution Architect 📐 | Project Manager 🎯 | Certified Odoo ERP Expert 🟣 | Technopreneur 🌱
-	<br/><br/>BizTech 💼 | HRM 👥 | FinTech 💵 | EdTech 🎓 | HealthTech ⚕️ | Manufacturing 🏭 | SaaS ☁️
+	<br/><br/>BizTech 💼 | FinTech 💵 | EdTech 🎓 | HealthTech ⚕️ | Manufacturing 🏭 | HRM (Human Resource Management) 👥 | SaaS ☁️
 	<br/><br/>🏆 12+ Year(s) Working Experience | 🇧🇩 Bangladesh
 </h3>
 
@@ -26,7 +26,7 @@
 
 <img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/working.gif" alt="" align="right" height="125"/>
 
-- 🔭 I’m currently working at Sysnova Information Systems Limited as Principal Lead 💻
+- 🔭 I’m currently working at Sysnova Information Systems Limited (Part of Kazi Farms) as Principal Lead 💻
 - 🌱 I’m currently learning about tech-related staff 💫
 - 👯 I’m looking to collaborate with other developers for the invention 💡
 - ✨ Goals: Contribute more to Open Source 🎯 projects
