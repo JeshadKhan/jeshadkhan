@@ -12,11 +12,16 @@
 <br/>
 
 <div align="center">
-  
+  <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handshake.gif" height="30px"></a>
+</div>
+
+<br/>
+
+<div align="center">
   [![Portfolio](https://img.shields.io/website?label=JeshadKhan.com&style=for-the-badge&url=https%3A%2F%2Fjeshadkhan.com)](https://jeshadkhan.com)
   [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jeshadkhan)
   [![X Follow](https://img.shields.io/twitter/follow/jeshadkhan?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJeshadKhan&screen_name=JeshadKhan)
-
+  [![YouTube](https://cdn.simpleicons.org/youtube?viewbox=auto&size=32 "YouTube")](https://youtube.com/jeshadkhan)
 </div>
 
 ---
@@ -33,17 +38,6 @@
 
 <!--[![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=JeshadKhan&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/JeshadKhan/readme-components-github)-->
 ![GitHub Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=jeshadkhan&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area_color=61778f&area=true&hide_border=true)
-
----
-
-### 🔌 Connect with me: <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/handshake.gif" height="30px"></a>
-
-[![Website](https://cdn.simpleicons.org/googleearth/lightseagreen?viewbox=auto&size=32 "Personal Portfolio")](https://jeshadkhan.com)
-[![GitHub](https://cdn.simpleicons.org/github/_/white?viewbox=auto&size=32 "GitHub")](https://github.com/jeshadkhan)
-[![LinkedIn](https://cdn.simpleicons.org/inspire/007FBC?viewbox=auto&size=32 "LinkedIn")](https://linkedin.com/in/jeshadkhan)
-[![X](https://cdn.simpleicons.org/x/_/white?viewbox=auto&size=32 "X (formally Twitter)")](https://x.com/jeshadkhan)
-[![Facebook](https://cdn.simpleicons.org/facebook?viewbox=auto&size=32 "Facebook")](https://facebook.com/jeshadkhan)
-[![YouTube](https://cdn.simpleicons.org/youtube?viewbox=auto&size=32 "YouTube")](https://youtube.com/jeshadkhan)
 
 ---
 
